@@ -1,0 +1,115 @@
+{
+  "product": "Brazil Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the New Year"
+    },
+    {
+      "title": "Carnival",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-02-26T12:00:00",
+      "endDate": "2024-02-28T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "teal",
+      "description": "Annual festival celebrated before Lent"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-19T12:00:00",
+      "endDate": "2024-04-19T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "purple",
+      "description": "Observance of the crucifixion of Jesus"
+    },
+    {
+      "title": "Tiradentes Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-21T12:00:00",
+      "endDate": "2024-04-21T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "deepPurple",
+      "description": "Commemorates the execution of national hero Tiradentes"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "green",
+      "description": "Celebration of workers and labor movements"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-09-07T12:00:00",
+      "endDate": "2024-09-07T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "yellow",
+      "description": "Celebrates Brazil's independence from Portugal"
+    },
+    {
+      "title": "Our Lady of Aparecida",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-10-12T12:00:00",
+      "endDate": "2024-10-12T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of Brazil's patron saint"
+    },
+    {
+      "title": "All Souls' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-02T12:00:00",
+      "endDate": "2024-11-02T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "pink",
+      "description": "Day to honor the dead"
+    },
+    {
+      "title": "Republic Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-15T12:00:00",
+      "endDate": "2024-11-15T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "orange",
+      "description": "Commemorates the establishment of the Brazilian republic"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Brazil",
+      "product": "Brazil Public Holidays 2024",
+      "style": "deep",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
